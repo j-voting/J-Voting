@@ -1,5 +1,5 @@
 = J-Voting
-:oldgoupId: io.github.oliviercailloux.y2018
+:oldgroupId: io.github.oliviercailloux.y2018
 :groupId: io.github.j-voting
 :artifactId: j-voting
 :repository: J-Voting
