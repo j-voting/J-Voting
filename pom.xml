@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<!-- TODO : use oliviercailloux.pom as parent -->
 	<groupId>io.github.j-voting</groupId>
 	<artifactId>j-voting</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>1</version>
 	<name>J-Voting</name>
 	<description>General classes for dealing with social choice theory.</description>
 	<url>https://github.com/j-voting/J-Voting</url>
@@ -21,7 +19,8 @@
 		<connection>scm:git:git://github.com/j-voting/J-voting.git</connection>
 		<developerConnection>scm:git:ssh://github.com/j-voting/J-voting.git</developerConnection>
 		<url>https://github.com/j-voting/J-Voting</url>
-	</scm>
+	  <tag>creation</tag>
+  </scm>
 
 	<developers>
 		<developer>
