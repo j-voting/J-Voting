@@ -4,7 +4,7 @@
 	<!-- TODO : use oliviercailloux.pom as parent -->
 	<groupId>io.github.j-voting</groupId>
 	<artifactId>j-voting</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>J-Voting</name>
 	<description>General classes for dealing with social choice theory.</description>
 	<url>https://github.com/j-voting/J-Voting</url>
@@ -19,7 +19,7 @@
 		<connection>scm:git:ssh://git@github.com/j-voting/J-Voting.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/j-voting/J-Voting.git</developerConnection>
 		<url>https://github.com/j-voting/J-Voting</url>
-	  <tag>creation</tag>
+	  <tag>first</tag>
   </scm>
 
 	<developers>
