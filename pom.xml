@@ -16,7 +16,7 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/j-voting/J-Voting.git</connection>
+		<connection>scm:git:ssh://github.com/j-voting/J-Voting.git</connection>
 		<developerConnection>scm:git:ssh://github.com/j-voting/J-Voting.git</developerConnection>
 		<url>https://github.com/j-voting/J-Voting</url>
 	  <tag>creation</tag>
