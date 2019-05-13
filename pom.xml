@@ -6,7 +6,7 @@
 	<!-- TODO : use oliviercailloux.pom as parent -->
 	<groupId>io.github.j-voting</groupId>
 	<artifactId>j-voting</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>J-Voting</name>
 	<description>General classes for dealing with social choice theory.</description>
 	<url>https://github.com/j-voting/J-Voting</url>
@@ -18,8 +18,8 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/j-voting/j-voting.git</connection>
-		<developerConnection>scm:git:ssh://github.com/j-voting/j-voting.git</developerConnection>
+		<connection>scm:git:git://github.com/j-voting/J-voting.git</connection>
+		<developerConnection>scm:git:ssh://github.com/j-voting/J-voting.git</developerConnection>
 		<url>https://github.com/j-voting/J-Voting</url>
 	</scm>
 
@@ -63,8 +63,8 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>8</maven.compiler.source>
-		<maven.compiler.target>8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
 	<repositories>
